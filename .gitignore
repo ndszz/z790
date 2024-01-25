@@ -1,0 +1,12 @@
+
+EFI/.DS_Store
+EFI/BOOT/.contentFlavour
+EFI/BOOT/.contentVisibility
+EFI/OC/.DS_Store
+EFI/OC/ACPI/.DS_Store
+EFI/OC/.contentFlavour
+EFI/OC/.contentVisibility
+EFI/OC/Drivers/.DS_Store
+EFI/OC/Kexts/.DS_Store
+EFI/OC/Tools/.DS_Store
+EFI/OC/Resources/Audio/OCEFIAudio_VoiceOver_Boot.mp3
